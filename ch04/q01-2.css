@@ -1,0 +1,14 @@
+body{
+	background: bisque;
+}
+h3{
+	color: blue;
+	text-align: right;
+}
+p{
+	color: plum;
+}
+span{
+	color: blue;
+	background: lightblue;
+}
